@@ -12,11 +12,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "baileys-pro" : "npm:baileys-pro",
+    "@whiskeysockets/baileys": "github:MR-LAKIYA/Baileys",
+    "@adiwajshing/keyed-db": "^0.2.4",
     "axios": "latest",
     "megajs": "latest",
     "pm2": "latest",
     "qrcode-terminal": "latest",
-  "express": "latest"
+    "express": "latest"
   }
 }
