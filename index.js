@@ -21,7 +21,7 @@ const { sms, downloadMediaMessage } = require('./lib/msg');
 const { cmd } = require('./command');
 
 const prefix = '.';
-const ownerNumber = ['94704638406']; // ඔයාගේ no එක දාන්න 🙄
+const ownerNumber = ['94779510013']; // ඔයාගේ no එක දාන්න 🙄
 
 async function connectToWhatsApp() {
     
