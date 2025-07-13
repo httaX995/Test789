@@ -72,7 +72,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                         sentNews.add(newsId);
 
                         const msg = `
-*🏷️ ${news.title || 'නොදන්නා'}*
+🏷️ *${news.title || 'නොදන්නා'}*
 
 ✍🏻 ${news.description || 'නොදන්නා'}
 
