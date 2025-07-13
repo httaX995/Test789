@@ -12,7 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:MR-LAKIYA/Baileys",
+    "baileys-pro" : "npm:baileys-pro",
     "@adiwajshing/keyed-db": "^0.2.4",
     "axios": "latest",
     "megajs": "latest",
